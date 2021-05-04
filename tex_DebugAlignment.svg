@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2048" height="2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<defs>
+  <mask id="pageMask">
+    <rect x="0" y="0" width="2048" height="2048" fill="white" />
+  </mask>
+</defs>
+<rect x="0" y="0" width="2048" height="2048" style="stroke-width:0; fill:rgb(39,39,39); fill-opacity:1.000" />
+<line x1="0" y1="128" x2="2048" y2="128" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="128" y1="0" x2="128" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="256" x2="2048" y2="256" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="256" y1="0" x2="256" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="384" x2="2048" y2="384" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="384" y1="0" x2="384" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="512" x2="2048" y2="512" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="512" y1="0" x2="512" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="640" x2="2048" y2="640" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="640" y1="0" x2="640" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="768" x2="2048" y2="768" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="768" y1="0" x2="768" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="896" x2="2048" y2="896" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="896" y1="0" x2="896" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1024" x2="2048" y2="1024" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1024" y1="0" x2="1024" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1152" x2="2048" y2="1152" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1152" y1="0" x2="1152" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1280" x2="2048" y2="1280" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1280" y1="0" x2="1280" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1408" x2="2048" y2="1408" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1408" y1="0" x2="1408" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1536" x2="2048" y2="1536" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1536" y1="0" x2="1536" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1664" x2="2048" y2="1664" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1664" y1="0" x2="1664" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1792" x2="2048" y2="1792" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1792" y1="0" x2="1792" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="1920" x2="2048" y2="1920" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="1920" y1="0" x2="1920" y2="2048" mask="url(#pageMask)" style="stroke:rgb(135,135,135); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="432.7933" x2="2048" y2="1615.207" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="0" y1="749.62" x2="2048" y2="1298.38" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="0" y1="1298.38" x2="2048" y2="749.62" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="0" y1="1615.207" x2="2048" y2="432.7933" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="432.7933" y1="0" x2="1615.207" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="749.62" y1="0" x2="1298.38" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="1298.38" y1="0" x2="749.62" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<line x1="1615.207" y1="0" x2="432.7933" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="1024" cy="1024" r="512" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="-1024" cy="1024" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="3072" cy="1024" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="1024" cy="-1024" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="1024" cy="3072" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="-1024" cy="-1024" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="3072" cy="-1024" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="-1024" cy="3072" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="3072" cy="3072" r="1536" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:0.750" />
+<circle cx="0" cy="0" r="1024" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="2048" cy="0" r="1024" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="2048" cy="2048" r="1024" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="0" cy="2048" r="1024" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="1024" cy="1024" r="1024" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="-1024" cy="1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="3072" cy="1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="1024" cy="-1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="1024" cy="3072" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="-1024" cy="-1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="3072" cy="-1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="-1024" cy="3072" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="3072" cy="3072" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(129,119,39); stroke-width:5; stroke-opacity:1.000" />
+<circle cx="1024" cy="1024" r="1024" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="-1024" cy="1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="3072" cy="1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="1024" cy="-1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="1024" cy="3072" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="-1024" cy="-1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="3072" cy="-1024" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="-1024" cy="3072" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<circle cx="3072" cy="3072" r="2048" fill="none" mask="url(#pageMask)" style="stroke:rgb(220,200,39); stroke-width:4; stroke-opacity:1.000" />
+<line x1="0" y1="0" x2="2048" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="0" y1="2048" x2="2048" y2="0" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="0" y1="1024" x2="1024" y2="0" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="1024" y1="0" x2="2048" y2="1024" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="2048" y1="1024" x2="1024" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="1024" y1="2048" x2="0" y2="1024" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="0" y1="0" x2="2048" y2="0" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="0" y1="1024" x2="2048" y2="1024" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="0" y1="2048" x2="2048" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="0" y1="0" x2="0" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="1024" y1="0" x2="1024" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+<line x1="2048" y1="0" x2="2048" y2="2048" mask="url(#pageMask)" style="stroke:rgb(183,183,183); stroke-width:6; stroke-opacity:1.000" />
+
+</svg>
