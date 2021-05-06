@@ -10,7 +10,7 @@ Here are previews of the texures:
 <img src="tex_DebugGrid.png" alt="DebugGrid" width="256"/>
 
 These files are being released under the CC0 license, which puts them in the
-public domain to the maximum extent possible before copy rights expire (laws in
+public domain to the maximum extent possible before copyrights expire (laws in
 some regions prevent simply putting them in the public domain everywhere). See
 LICENSE.md for details.
 
