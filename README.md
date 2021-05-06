@@ -3,6 +3,12 @@ debugging textures. Also included are the generated debugging textures at a
 resolution of 2048 by 2048 pixels (other resolutions, e.g., 1024 by 1024 or
 4096 by 4096 can easily be exported from the SVG files).
 
+Here are previews of the texures:
+
+<img src="tex_DebugUVTiles.png" alt="UV Tiles" width="256"/>
+<img src="tex_DebugAlignment.png" alt="Alignment" width="256"/>
+<img src="tex_DebugGrid.png" alt="DebugGrid" width="256"/>
+
 These files are being released under the CC0 license, which puts them in the
 public domain to the maximum extent possible before copy rights expire (laws in
 some regions prevent simply putting them in the public domain everywhere). See
